@@ -1,0 +1,24 @@
+# Go
+bin/
+*.exe
+*.dll
+
+# IDE
+.idea/
+.vscode/
+
+# frontend
+node_modules/
+dist/
+
+# env
+.env
+
+# upload
+uploads/
+
+# logs
+*.log
+
+vue-frontend/node_modules/
+vue-frontend/dist/
